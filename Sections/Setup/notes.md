@@ -49,9 +49,13 @@
     -   _Resource Allocation_: Efficient resource allocation and management are crucial to prevent over-provisioning or under-provisioning of virtualized resources.
     -   _Security Concerns_: VMs introduce additional attack vectors, and security measures must be implemented to protect against VM escape attacks and unauthorized access.
 
-
+- Oracle Virtual Box - Hypervisor
+- ISO file - centOS, ubundu
+- Gitbash/ putty
+- Vagrant - automation tool for vm creation
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0NDQxMTAsMTE5MTI1MDkxMiwtNjgxOD
-UwNjgxLC0xNDczMTEwODUsMTkyNjczMjAxOCwtNDk4Mjc3MTE5
-LDE2MDI5MzUzNDEsLTE4MjQ1NjkyNzMsODk0MDcwOTgwXX0=
+eyJoaXN0b3J5IjpbNDUwNTI1NzMxLDExOTEyNTA5MTIsLTY4MT
+g1MDY4MSwtMTQ3MzExMDg1LDE5MjY3MzIwMTgsLTQ5ODI3NzEx
+OSwxNjAyOTM1MzQxLC0xODI0NTY5MjczLDg5NDA3MDk4MF19
 -->

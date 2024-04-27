@@ -13,9 +13,11 @@
 	 - Navigate to account dropdown select billing section
 	 - Billing preference update
 	 - Cloud watch  - monitoring service 
-*
+* Request certificate for domain purchased
+	* SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are cryptographic protocols that provide secure communication over a computer network. They're like special envelopes that keep your messages safe as they travel from one place to another on the internet.
+	* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEyNDEwOTcsLTQ5ODI3NzExOSwxNj
+eyJoaXN0b3J5IjpbLTE1NDc5MDc1NjEsLTQ5ODI3NzExOSwxNj
 AyOTM1MzQxLC0xODI0NTY5MjczLDg5NDA3MDk4MF19
 -->

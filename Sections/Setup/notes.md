@@ -53,9 +53,11 @@
 - ISO file - centOS, ubundu
 - Gitbash/ putty
 - Vagrant - automation tool for vm creation
-- 
+- VM setup manually
+	- 
+- VM setup Automation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNTI1NzMxLDExOTEyNTA5MTIsLTY4MT
+eyJoaXN0b3J5IjpbODA1MDExNDU3LDExOTEyNTA5MTIsLTY4MT
 g1MDY4MSwtMTQ3MzExMDg1LDE5MjY3MzIwMTgsLTQ5ODI3NzEx
 OSwxNjAyOTM1MzQxLC0xODI0NTY5MjczLDg5NDA3MDk4MF19
 -->

@@ -7,9 +7,9 @@
 	 - Attach policy -admin access
 	 - use always iam user 
 	 - Once user created, click the user 
-	 - Security credentials tab for MFA 
+	 - Security credentials tab for MFA setup
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTk5Mjc3MSwtMTgyNDU2OTI3Myw4OT
+eyJoaXN0b3J5IjpbLTUzNTY1NTE4NCwtMTgyNDU2OTI3Myw4OT
 QwNzA5ODBdfQ==
 -->

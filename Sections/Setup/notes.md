@@ -9,10 +9,10 @@
 	 - Once user created, click the user 
 	 - Security credentials tab for MFA setup
  - Setup Billing dashboard
-		 
+
 	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYyNTgxODIsLTE4MjQ1NjkyNzMsOD
-k0MDcwOTgwXX0=
+eyJoaXN0b3J5IjpbMTcxNzM5NjAyMCwtMTgyNDU2OTI3Myw4OT
+QwNzA5ODBdfQ==
 -->

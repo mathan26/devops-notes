@@ -15,9 +15,13 @@
 	 - Cloud watch  - monitoring service 
 * Request certificate for domain purchased
 	* SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are cryptographic protocols that provide secure communication over a computer network. They're like special envelopes that keep your messages safe as they travel from one place to another on the internet.
+	* -   **Encryption**: Scrambles data during transmission, making it unreadable without the right key.
+-   **Authentication**: Verifies the identity of the website/server you're connecting to, ensuring it's not a fake.
+-**Integrity**: Protects data from tampering during transmission, ensuring it arrives as sent.
+
 	* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc5MDc1NjEsLTQ5ODI3NzExOSwxNj
-AyOTM1MzQxLC0xODI0NTY5MjczLDg5NDA3MDk4MF19
+eyJoaXN0b3J5IjpbMTkyNjczMjAxOCwtNDk4Mjc3MTE5LDE2MD
+I5MzUzNDEsLTE4MjQ1NjkyNzMsODk0MDcwOTgwXX0=
 -->

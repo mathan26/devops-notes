@@ -13,8 +13,9 @@
 	 - Navigate to account dropdown select billing section
 	 - Billing preference update
 	 - Cloud watch  - monitoring service 
+*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODI3NzExOSwxNjAyOTM1MzQxLC0xOD
-I0NTY5MjczLDg5NDA3MDk4MF19
+eyJoaXN0b3J5IjpbLTE2NTEyNDEwOTcsLTQ5ODI3NzExOSwxNj
+AyOTM1MzQxLC0xODI0NTY5MjczLDg5NDA3MDk4MF19
 -->

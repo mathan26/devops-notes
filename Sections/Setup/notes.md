@@ -10,9 +10,10 @@
 	 - Security credentials tab for MFA setup
  - Setup Billing dashboard
 
+	 - Navigate to account dropdown select billing section
 	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzM5NjAyMCwtMTgyNDU2OTI3Myw4OT
+eyJoaXN0b3J5IjpbMTYwMjkzNTM0MSwtMTgyNDU2OTI3Myw4OT
 QwNzA5ODBdfQ==
 -->

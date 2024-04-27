@@ -21,8 +21,12 @@
 - AWS CNAME - CVALUE bind with Godaddy accout
 - IAM user login
 
+## VM setup
+
+ - List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMxMTA4NSwxOTI2NzMyMDE4LC00OT
-gyNzcxMTksMTYwMjkzNTM0MSwtMTgyNDU2OTI3Myw4OTQwNzA5
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTY4MTg1MDY4MSwtMTQ3MzExMDg1LDE5Mj
+Y3MzIwMTgsLTQ5ODI3NzExOSwxNjAyOTM1MzQxLC0xODI0NTY5
+MjczLDg5NDA3MDk4MF19
 -->

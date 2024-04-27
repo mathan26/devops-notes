@@ -11,9 +11,9 @@
  - Setup Billing dashboard
 
 	 - Navigate to account dropdown select billing section
-	 - 
+	 - Billing preger
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjkzNTM0MSwtMTgyNDU2OTI3Myw4OT
-QwNzA5ODBdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk2NTYwNzMsMTYwMjkzNTM0MSwtMT
+gyNDU2OTI3Myw4OTQwNzA5ODBdfQ==
 -->

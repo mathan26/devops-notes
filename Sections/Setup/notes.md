@@ -18,10 +18,10 @@
 	* -   **Encryption**: Scrambles data during transmission, making it unreadable without the right key.
 -   **Authentication**: Verifies the identity of the website/server you're connecting to, ensuring it's not a fake.
 -**Integrity**: Protects data from tampering during transmission, ensuring it arrives as sent.
-
-	* 
+- AWS CNAME - CVALUE bind with Godaddy a
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjczMjAxOCwtNDk4Mjc3MTE5LDE2MD
-I5MzUzNDEsLTE4MjQ1NjkyNzMsODk0MDcwOTgwXX0=
+eyJoaXN0b3J5IjpbLTE2NDM3ODg3MjUsMTkyNjczMjAxOCwtND
+k4Mjc3MTE5LDE2MDI5MzUzNDEsLTE4MjQ1NjkyNzMsODk0MDcw
+OTgwXX0=
 -->
